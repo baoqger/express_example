@@ -4,5 +4,4 @@ node_js:
 deploy:
   provider: heroku
   app: node-heroku-travis
-  api_key:
-    secure: t4NILZPA3PoFCvPOt0VkA+pwB5yNJHigiwHseF8uoMpTHJCQdKHb5/OIHTaCMkBF0/eatqy/zDV++u3oxkqhTNT+ckZU3gkliCF/fkU5CSVmo2lSDzg6Ashl+4lyQXceO1Zxenx7ODVR/Fa6CfFIAImGN8roJn5LZku9AXgmwWi58ubykLFc3bkJT2kPw4U6hOcgoBQIu7XvhXuiDpZCKkU8bxpQaQJ+SR7woRwimtrZDlpMqkH8ggWcWlz8gc7ialgmv956YRQrqgHNiD1ma7+pYl3kbnf0cGios/IbvM9HNbJdw1FtjOZPNi/KCu9fIqG+ISuQCXVdEoTmUmJsZtnLTjADu2zPog0mBzZecMu4/ZlFZYdwiRkc7eM3Et8U9j6/oEl34L/CghSI+nW75aEWsncNbKcNZFaPs0nUmRNNS5fRgQHv+wRn2lHJlNoRB2qW857udkzYDxa/XfG4PmqzgYbJP20qam2+Yet3K7qI5q9Yn0QEzzWIrS3wVUp2/IZuly1Ly+Yhw9PJpYYUpFxbCHD2/rhqESPn0Y7mAsTQk4O+i+yIWqp4IUJYWiBLT6sx/W/jYC3+moe+2W7SGANOMMOC/iQFNN+oUrxbki/+9dBiQst6Ao5xa+0IGZrsM7HdaA7T1qjPOeajZv7EGNSZqp0WR1GOB4m9KVOndU8=
+  api_key:8849485a-2edd-4e4f-9abc-1fbe7b36f518

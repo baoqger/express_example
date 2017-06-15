@@ -4,4 +4,4 @@ node_js:
 deploy:
   provider: heroku
   app: node-heroku-travis
-  api_key:"8849485a-2edd-4e4f-9abc-1fbe7b36f518"
+  api_key: 8849485a-2edd-4e4f-9abc-1fbe7b36f518

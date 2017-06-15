@@ -10,7 +10,7 @@ router.get('/', function(req, res){
 router.get('/about', function(req, res){
   res.render('about', {
     title: 'About'
-  });
+  }); 
 });
 
 router.get('/contact', function(req, res){
